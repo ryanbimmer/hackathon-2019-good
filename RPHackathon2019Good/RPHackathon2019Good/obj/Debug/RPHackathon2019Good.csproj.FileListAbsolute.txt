@@ -1,0 +1,7 @@
+C:\Users\rpaul\source\repos\RPHackathon2019Good\RPHackathon2019Good\bin\Debug\RPHackathon2019Good.exe.config
+C:\Users\rpaul\source\repos\RPHackathon2019Good\RPHackathon2019Good\bin\Debug\RPHackathon2019Good.exe
+C:\Users\rpaul\source\repos\RPHackathon2019Good\RPHackathon2019Good\bin\Debug\RPHackathon2019Good.pdb
+C:\Users\rpaul\source\repos\RPHackathon2019Good\RPHackathon2019Good\obj\Debug\RPHackathon2019Good.csprojAssemblyReference.cache
+C:\Users\rpaul\source\repos\RPHackathon2019Good\RPHackathon2019Good\obj\Debug\RPHackathon2019Good.csproj.CoreCompileInputs.cache
+C:\Users\rpaul\source\repos\RPHackathon2019Good\RPHackathon2019Good\obj\Debug\RPHackathon2019Good.exe
+C:\Users\rpaul\source\repos\RPHackathon2019Good\RPHackathon2019Good\obj\Debug\RPHackathon2019Good.pdb
